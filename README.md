@@ -6,6 +6,6 @@
 
 ### Requirements
 - **Python 3**
-- **googletans** and **Pillow** libraries
+- **googletrans** and **Pillow** libraries
 
 To run the code, make sure you have both libraries installed.
